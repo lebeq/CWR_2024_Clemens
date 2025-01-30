@@ -1,0 +1,15 @@
+*.txt
+*.csv
+*.dat
+
+*.png
+*.jpg
+
+*.gif
+*.mp3
+
+*.exe
+
+*.ipynb
+
+*.o
